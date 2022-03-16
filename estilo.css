@@ -1,0 +1,26 @@
+body{
+    background-color: black
+}
+
+h2 {
+    font-size: 28px;
+    color: coral;
+}
+
+h2.fonte-azul{
+    color: blue;
+}
+
+p {
+    font-size: 28px;
+    color: white
+}
+
+#paragrafo{
+    font-size: 28px;
+    color: white
+}
+#paragrafo2{
+    font-size: 28px;
+    color: white
+}
