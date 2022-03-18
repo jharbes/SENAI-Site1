@@ -1,5 +1,5 @@
 body{
-    background-color: black
+    background-color: rgb(10, 10, 10)
 }
 
 h2 {
@@ -16,11 +16,26 @@ p {
     color: white
 }
 
+li{
+    font-size: 18px;
+    color:beige;
+}
+
 #paragrafo{
     font-size: 28px;
-    color: white
+    color: white;
 }
 #paragrafo2{
     font-size: 28px;
     color: white
+}
+
+table {
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    font-size: 28px;
+    color:crimson;
 }
